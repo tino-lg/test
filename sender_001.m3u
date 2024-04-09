@@ -42,4 +42,14 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1,RBB Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1,SAT.1
-http://192.168.178.41:3000/TS/S19.2E-1-1107-17500
+http://192.168.10.1:3000/TS/S19.2E-1-1107-17500
+#EXTINF:-1,ProSieben
+http://192.168.10.1:3000/TS/S19.2E-1-1107-17501
+#EXTINF:-1,sixx
+http://192.168.10.1:3000/TS/S19.2E-1-1107-17506
+#EXTINF:-1,Disney Channel
+http://192.168.10.1:3000/TS/S19.2E-133-5-1793
+#EXTINF:-1,RTLZWEI
+http://192.168.10.1:3000/TS/S19.2E-1-1089-12020
+#EXTINF:-1,RTL Television
+http://192.168.10.1:3000/TS/S19.2E-1-1089-12003
